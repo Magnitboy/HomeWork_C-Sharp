@@ -43,7 +43,7 @@
 
 // Task 2. Напишите программу, которая на вход принимает одно 
 // число (N), а на выходе показывает все целые числа в 
-//промежутке от -N до N.
+// промежутке от -N до N.
 
 // Console.Write("Input a positive number: ");
 // int num = Convert.ToInt32(Console.ReadLine());

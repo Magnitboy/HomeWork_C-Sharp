@@ -1,0 +1,15 @@
+E:\GB\C#\MorningSeminar\HomeWork_1\bin\Debug\net6.0\HomeWork_1.exe
+E:\GB\C#\MorningSeminar\HomeWork_1\bin\Debug\net6.0\HomeWork_1.deps.json
+E:\GB\C#\MorningSeminar\HomeWork_1\bin\Debug\net6.0\HomeWork_1.runtimeconfig.json
+E:\GB\C#\MorningSeminar\HomeWork_1\bin\Debug\net6.0\HomeWork_1.dll
+E:\GB\C#\MorningSeminar\HomeWork_1\bin\Debug\net6.0\HomeWork_1.pdb
+E:\GB\C#\MorningSeminar\HomeWork_1\obj\Debug\net6.0\HomeWork_1.csproj.AssemblyReference.cache
+E:\GB\C#\MorningSeminar\HomeWork_1\obj\Debug\net6.0\HomeWork_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB\C#\MorningSeminar\HomeWork_1\obj\Debug\net6.0\HomeWork_1.AssemblyInfoInputs.cache
+E:\GB\C#\MorningSeminar\HomeWork_1\obj\Debug\net6.0\HomeWork_1.AssemblyInfo.cs
+E:\GB\C#\MorningSeminar\HomeWork_1\obj\Debug\net6.0\HomeWork_1.csproj.CoreCompileInputs.cache
+E:\GB\C#\MorningSeminar\HomeWork_1\obj\Debug\net6.0\HomeWork_1.dll
+E:\GB\C#\MorningSeminar\HomeWork_1\obj\Debug\net6.0\refint\HomeWork_1.dll
+E:\GB\C#\MorningSeminar\HomeWork_1\obj\Debug\net6.0\HomeWork_1.pdb
+E:\GB\C#\MorningSeminar\HomeWork_1\obj\Debug\net6.0\HomeWork_1.genruntimeconfig.cache
+E:\GB\C#\MorningSeminar\HomeWork_1\obj\Debug\net6.0\ref\HomeWork_1.dll
