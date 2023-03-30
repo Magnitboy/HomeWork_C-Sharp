@@ -62,26 +62,25 @@
 // Задача 8: Напишите программу, которая на вход принимает число (N),
 //  а на выходе показывает все чётные числа от 1 до N.
 
-Console.Write("Input a positive number: ");
-int num = Convert.ToInt32(Console.ReadLine());
-int current = 1;
+// Console.Write("Input a positive number: ");
+// int num = Convert.ToInt32(Console.ReadLine());
+// int current = 1;
 
-if(num < 0)
-{
-    Console.WriteLine("Your number is not positive");
-}
-else
-{
-    while(current <= num)
-    {
-        if(current % 2 == 0)
-        {
-            Console.Write(current + " ");
-            current++;
-         }
-        else{
-            current++;
-            }
-    }
-}
-
+// if(num < 0)
+// {
+//     Console.WriteLine("Your number is not positive");
+// }
+// else
+// {
+//     while(current <= num)
+//     {
+//         if(current % 2 == 0)
+//         {
+//             Console.Write(current + " ");
+//             current++;
+//          }
+//         else{
+//             current++;
+//             }
+//     }
+// }
