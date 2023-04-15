@@ -118,10 +118,10 @@
 //     double maxNum = arrey[0];
 //     for(int i = 1; i < arrey.Length; i++)
 //     {
-//         if(arrey[i] < minNum)
-//             minNum = arrey[i];
-//             if(arrey[i] > maxNum)
-//                 maxNum = arrey[i];
+        if(arrey[i] < minNum)
+            minNum = arrey[i];
+        if(arrey[i] > maxNum)
+            maxNum = arrey[i];
 //     }
 //     double dif = maxNum - minNum;
   
